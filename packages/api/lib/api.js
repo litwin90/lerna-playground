@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
 module.exports = api;
 
 function api() {
-    // TODO
+  // TODO
+  console.log("test");
 }
