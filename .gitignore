@@ -1,0 +1,25 @@
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node Files #
+node_modules
+npm-debug.log
+
+*.tsbuildinfo
+
+# Build #
+/dist/**
+
+# IDE #
+.idea/
+
+# Test Files #
+.nyc_output
+coverage
+
+# Private Data #
+.env
+client.keytab
